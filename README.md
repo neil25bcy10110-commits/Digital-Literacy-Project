@@ -55,21 +55,38 @@ Created a Google Form quiz and linked responses to Google Sheets
 Task 4 – Email & Etiquette Guide
 
 Wrote two professional emails (professor & internship request)
+
 Created a Social Media Do’s and Don’ts checklist
+
 Task 5 – Cybercrime Awareness
+
 Developed a case study on cybercrime
+
 Created a “Stay Safe Online” prevention checklist
+
 🔗 Useful Links
+
 Google Form Quiz: https://forms.gle/S5hiTMktNDwxhxzV9
+
 🎯 Learning Outcomes Improved digital communication skills Built a professional online presence Gained awareness about cyber safety Learned to use important digital tools effectively
+
 📌 Conclusion
+
 This project helped me understand the importance of digital literacy in modern education and careers. It enhanced my practical skills and made me more confident in using digital platforms responsibly.
+
 🔗Tools & Platforms Used in Digital Literacy Project :
+
 • Canva – (https://www.canva.in) (for presentation creation)
+
 • GitHub – (https://github.com) (for portfolio and project hosting)
+
 • Stack Overflow – (https://stackoverflow.com) (for data science practice)
+
 • LinkedIn - (https://www.linkedin.com) for professional networking and career opportunities
+
 • HackerRank – (https://www.hackerrank.com) (for coding practice)
+
 • Google Forms & Google Sheets – (https://forms.google.com) (for quiz creation and data collection)
+
 • National Cyber Crime Portal – (https://cybercrime.gov.in) (for reporting cybercrime in India)
 
