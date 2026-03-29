@@ -34,7 +34,7 @@ README.md
 📝 Task Summaries 
 Task 1 – Digital Literacy Awareness Infographic
 
-Created a one-page visual presentation using Prezi explaining digital literacy, safe internet practices, useful tools, professional presence, and email etiquette.
+Created a one-page visual presentation using canva explaining digital literacy, safe internet practices, useful tools, professional presence, and email etiquette.
 
 Task 2 – Student Digital Portfolio
 Built profiles on:
