@@ -46,15 +46,21 @@ Stack Overflow – fo rsolving coding problems.
 LinkedIn - for professional networking and career opportunities
 
 Task 3 – Coding & Collaboration Platforms
+
 Solved “Solve Me First” on HackerRank
+
 Created a Google Form quiz and linked responses to Google Sheets
 
 Task 4 – Email & Etiquette Guide
+
 Wrote two professional emails (professor & internship request)
+
 Created a Social Media Do’s and Don’ts checklist
 
 Task 5 – Cybercrime Awareness
+
 Developed a case study on cybercrime
+
 Created a “Stay Safe Online” prevention checklist
 
 🔗 Useful Links
